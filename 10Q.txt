@@ -1,0 +1,6 @@
+1. In this Assignment, I have learnt a lot about extraction of specific entities such as food, cities, sports from given chunk of text. 
+2. I reffered various solutions on stackoverflow, Analytics Vindhya and thought of applying algorithms and functions which are in NLTK.
+3. I did Exploratory Data Analysis using word cloud which gives out an image of most occured words in the text.
+4. Data Preprocessing Steps such as Tokenization, Lemmitization were performed on the text.
+
+For more details, we can refer, http://www.nltk.org/book/ch07.html#information-extraction-architecture
